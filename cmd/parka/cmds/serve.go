@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/go-go-golems/glazed/pkg/cli"
 	"github.com/spf13/cobra"
-	"github.com/wesen/parka/pkg"
+	"github.com/go-go-golems/parka/pkg"
 	"io"
 	"net/http"
 )
